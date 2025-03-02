@@ -21,5 +21,5 @@ This is a full-stack YouTube clone built using the **MERN** stack (**MongoDB, Ex
 ## 📌 Setup & Installation  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-username/youtube-clone.git  
-   cd youtube-clone  
+   git clone https://github.com/Aman07122003/StreamOn.git  
+   cd StreamOn  
