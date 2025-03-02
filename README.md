@@ -1,4 +1,4 @@
-# 🎥 YouTube Clone (MERN Full-Stack Project)  
+# 🎥 StreamOn (MERN Full-Stack Project)  
 
 This is a full-stack YouTube clone built using the **MERN** stack (**MongoDB, Express.js, React, and Node.js**). It replicates core YouTube functionalities, allowing users to upload, watch, like, comment, and manage videos.  
 
